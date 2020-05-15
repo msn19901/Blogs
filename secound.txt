@@ -1,0 +1,3 @@
+This is my first GIT version 1 of those
+this is 2nd stage 
+the secound
